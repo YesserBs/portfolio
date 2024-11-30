@@ -19,10 +19,10 @@ function Home2() {
               LAISSEZ MOI <span className="purple"> ME </span> PRESENTER
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            J'aime la programmation, 
+            et j'ai de bonnes connaissances 
               <br />
-              <br />I am fluent in classics like
+              <br />Je maitrise les bases, tel que
               <i>
                 <b className="purple"> C++, Javascript and Go. </b>
               </i>
